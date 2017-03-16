@@ -638,6 +638,7 @@ body {
 }
 .tocify-wrapper > img {
   display: block;
+  width: inherit;
 }
 .tocify-wrapper > .search {
   position: relative;

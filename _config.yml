@@ -2,18 +2,16 @@
 ## Docs: https://hexo.io/docs/configuration.html
 
 # Site
-title: API Documentation
+title: Newbie Dev Documentation
 subtitle:
 description:
-author: John Doe
-language:
-timezone:
+author: Duc Dao
+language: vi_VN
+timezone: UTC-7
 
 # URL (Used when deploying)
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://docs.newbie-dev.net
 root: /
-port: 6000
 
 # Directory
 source_dir: source
